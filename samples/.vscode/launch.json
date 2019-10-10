@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestAge",
+            "request": "launch",
+            "mainClass": "TestAge",
+            "projectName": "samples_4803a63c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaAlgunsMetodos",
+            "request": "launch",
+            "mainClass": "TestaAlgunsMetodos"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BalancoTrimestral",
+            "request": "launch",
+            "mainClass": "BalancoTrimestral"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaIdade",
+            "request": "launch",
+            "mainClass": "TestaIdade"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MeuProgram",
+            "request": "launch",
+            "mainClass": "MeuProgram"
+        }
+    ]
+}
