@@ -24,5 +24,7 @@ public class AccountTest {
         System.out.println();
 
         System.out.printf("Name in object myAccount is: %s%n%n", myAccount.getName());
+
+        input.close();
     }
 } // end class AccountTest
